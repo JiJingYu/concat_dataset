@@ -1,4 +1,4 @@
-### demo特点
+### Demo特点
 
 该代码基于自行编写的H5Imageset类与pytorch中的ConcatDataset接口，主要有以下特点：
 
