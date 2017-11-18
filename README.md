@@ -1,5 +1,6 @@
-### Demo特点
+﻿### Demo特点
 
+![](H5Dataset类.png)
 该代码基于自行编写的H5Imageset类与pytorch中的ConcatDataset接口，主要有以下特点：
 
 1. 有效利用了hdf5读取数据时直接与硬盘交互，无需载入整个数据集到内存中的优势，降低内存开销。
