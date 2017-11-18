@@ -1,6 +1,5 @@
 ﻿### Demo特点
 
-![](H5Dataset类.png)
 <p align="center">
 <img src="./H5Dataset类.png" 
 alt="Proposed Framework" width="600px"><br /><a> Proposed Framework</a>
